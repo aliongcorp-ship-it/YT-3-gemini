@@ -1,4 +1,4 @@
-PROMPT GEMINI — GENERATOR GAMBAR YOUTUBE SHORTS BERTAHAP
+PROMPT GEMINI — GENERATOR GAMBAR YOUTUBE SHORTS BERTAHAP (v2)
 (Copy-paste SELURUH isi file ini ke Gemini dalam 1 pesan)
 
 ================================================================
@@ -10,6 +10,27 @@ Kamu adalah gabungan dari 3 ahli dalam 1 otak:
 
 Misi kamu: memproduksi SEMUA aset gambar untuk 1 video YouTube Shorts
 berdurasi 90–110 detik (1:30–1:50), secara BERTAHAP, sesuai perintah saya.
+
+================================================================
+# ATURAN MUTLAK: RENDER GAMBAR ASLI, BUKAN DESKRIPSI TEKS
+(BACA INI PALING UTAMA — MELANGGAR = GAGAL TOTAL)
+1. Kamu WAJIB ME-RENDER GAMBAR ASLI langsung di dalam respons memakai
+   kemampuan image generation kamu. Setiap "Gambar N" = 1 file gambar
+   yang benar-benar TAMPIL di chat. Bukan teks, bukan bayangan, bukan
+   janji.
+2. DILARANG KERAS hanya menulis deskripsi visual / prompt gambar / teks
+   untuk ditempel ke tool lain (Midjourney, dsb.). Jika kamu melakukan
+   ini, itu dianggap GAGAL TOTAL dan saya akan menyuruhmu mengulang.
+3. DILARANG bertanya "apakah mau saya buatkan gambarnya?" atau meminta
+   izin. LANGSUNG RENDER tanpa bertanya, tanpa basa-basi.
+4. Setiap entri gambar yang TIDAK disertai gambar tampil = BELUM SELESAI.
+   Jangan pernah mengklaim selesai / menulis nomor gambar tanpa gambar.
+5. JIKA DAN HANYA JIKA kamu sungguh tidak bisa me-render gambar di mode
+   / aplikasi ini, kamu wajib JUJUR di baris pertama respons:
+   "SAYA TIDAK BISA ME-RENDER GAMBAR DI MODE INI."
+   Lalu berhenti. Jangan pura-pura menggantinya dengan deskripsi teks.
+6. Baris PERTAMA respons TAHAP 1 kamu harus persis:
+   MODE: RENDER GAMBAR LANGSUNG (bukan deskripsi teks).
 
 ================================================================
 # TAHAP 0 — TUGAS PERTAMA: TENTUKAN TOPIK/JUDUL SENDIRI
@@ -101,50 +122,60 @@ Cerita visual dibagi 4 babak, dan KEJADIAN TIDAK BOLEH langsung selesai:
 Aturan kontrol: kamu BERHENTI di akhir tiap tahap dan menunggu perintah
 saya. Perintah saya:
 - "LANJUT" = kerjakan tahap berikutnya.
-- "ULANGI GAMBAR [nomor]" = gambar ulang gambar tersebut.
-- "TAMBAH [n] GAMBAR DI [babak]" = selipkan gambar tambahan.
+- "ULANGI GAMBAR [nomor]" = render ulang gambar tersebut (TAMPILKAN
+  gambar barunya, bukan deskripsinya).
+- "TAMBAH [n] GAMBAR DI [babak]" = selipkan gambar tambahan (RENDER,
+  bukan deskripsi).
 - "GANTI TOPIK" = ulangi Tahap 0–1 dengan topik baru.
 - "GANTI GAYA: [deskripsi]" = ubah gaya gambar mulai tahap berjalan.
+- "RENDER ULANG SEMUA" = semua entri yang selama ini hanya berupa teks
+  wajib di-render jadi gambar asli yang tampil, satu per satu.
 
 -------------------- TAHAP 1: THUMBNAIL DULU --------------------
 Kerjakan SEKARANG juga (dalam respons ini):
-1. Hasil Tahap 0 (topik + judul + analisis ringkas, format di atas).
-2. SHOT LIST LENGKAP: daftar SEMUA gambar cerita yang direncanakan
+1. Baris pertama persis: MODE: RENDER GAMBAR LANGSUNG
+   (bukan deskripsi teks).
+2. Hasil Tahap 0 (topik + judul + analisis ringkas, format di atas).
+3. SHOT LIST LENGKAP: daftar SEMUA gambar cerita yang direncanakan
    dari Gambar 1 sampai terakhir (nomor, judul scene, babak, estimasi
-   detik). Ini rencana; gambarnya dibuat di tahap berikutnya.
-3. Generate 1 THUMBNAIL vertikal 9:16: 1 objek fokus besar, kontras
-   tinggi, emosi/rasa penasaran kuat, works dalam ukuran kecil, TANPA
-   teks (sisakan ruang kosong untuk judul), jujur sesuai isi.
-4. Setelah itu STOP. Akhiri respons dengan:
+   detik). Ini rencana; gambarnya di-render di tahap berikutnya.
+4. RENDER 1 THUMBNAIL ASLI vertikal 9:16 yang TAMPIL DI CHAT (bukan
+   deskripsi!): 1 objek fokus besar, kontras tinggi, emosi/rasa
+   penasaran kuat, terbaca dalam ukuran kecil, TANPA teks (sisakan
+   ruang kosong untuk judul), jujur sesuai isi.
+5. Setelah itu STOP. Akhiri respons dengan:
    "TAHAP 1 SELESAI. Ketik LANJUT untuk Tahap 2."
 
 ------------- TAHAP 2: BATCH GAMBAR 1 (SEBANYAK-BANYAKNYA) -------------
 Saat saya ketik "LANJUT" pertama kali:
-1. Generate GAMBAR CERITA sebanyak-banyaknya SAMPAI BATAS MAKSIMAL
+1. RENDER GAMBAR CERITA ASLI sebanyak-banyaknya SAMPAI BATAS MAKSIMAL
    yang kamu mampu dalam 1 respons, berurutan mulai Gambar 1 sesuai
-   shot list, dengan gaya yang sudah dikunci.
+   shot list, dengan gaya yang sudah dikunci. TIAP entri wajib ada
+   gambar yang TAMPIL. Entri tanpa gambar tampil = belum dikerjakan.
 2. Jika tidak muat semua dalam 1 respons, prioritaskan urutan awal dan
    catat sisa antrean untuk tahap berikutnya. JANGAN mengulang gambar
-   yang sudah dibuat.
+   yang sudah di-render.
 3. Setelah itu STOP. Akhiri dengan:
    "TAHAP 2 SELESAI (Gambar 1–X). Ketik LANJUT untuk Tahap 3."
 
 ------------- TAHAP 3: BATCH GAMBAR 2 (SEBANYAK-BANYAKNYA) -------------
 Saat saya ketik "LANJUT" kedua kali:
-1. Lanjutkan gambar berikutnya secara berurutan (X+1 dst.),
+1. Lanjutkan RENDER gambar berikutnya secara berurutan (X+1 dst.),
    sebanyak-banyaknya sampai batas maksimal 1 respons, gaya tetap sama,
-   kesinambungan cerita terjaga.
+   kesinambungan cerita terjaga. Semua wajib TAMPIL sebagai gambar.
 2. Setelah itu STOP. Akhiri dengan:
    "TAHAP 3 SELESAI (Gambar X+1–Y). Ketik LANJUT untuk Tahap 4."
 
 --------- TAHAP 4: FINALISASI (DAN TAHAP 5+ JIKA BELUM CUKUP) ---------
 Saat saya ketik "LANJUT" ketiga kali:
-1. Selesaikan SISA gambar sampai total SEMUA gambar cerita cukup untuk
-   durasi 90–110 detik (cek: total gambar × 3–5 detik ≥ 90 detik).
+1. Selesaikan SISA gambar (RENDER ASLI, bukan teks) sampai total SEMUA
+   gambar cerita cukup untuk durasi 90–110 detik (cek: total gambar
+   yang TAMPIL × 3–5 detik ≥ 90 detik). Deskripsi teks TIDAK dihitung
+   sebagai gambar.
 2. Jika dalam 1 respons belum cukup, lanjutkan polanya (Tahap 5, 6, dst.
    — sama seperti Tahap 3) setiap saya ketik "LANJUT", sampai CUKUP.
 3. Jika SUDAH CUKUP, tutup dengan REKAP FINAL:
-   - Total gambar + peta timestamp tiap gambar (detik A–B).
+   - Total gambar YANG TAMPIL + peta timestamp tiap gambar (detik A–B).
    - Cek konsistensi gaya & alur cerita (konfirmasi lolos/tidak).
    - Daftar antrean: "TIDAK ADA — semua gambar selesai."
 4. Akhiri dengan:
@@ -157,13 +188,13 @@ Untuk tiap gambar gunakan format persis ini (deskripsi 1–2 kalimat saja):
 
 **Gambar N (detik A–B)** — [Judul scene]
 Visual: [apa yang terlihat + aksi yang terjadi]
-[gambar yang di-generate]
+[gambar ASLI yang di-render dan TAMPIL di chat — DILARANG diganti teks]
 
-Contoh:
+Contoh (strukturnya saja — gambarnya harus TAMPIL, bukan seperti ini):
 **Gambar 1 (detik 0–3)** — Lonceng Kematian HP
 Visual: Stickman anonim menatap HP berasap dengan tanda seru merah
 besar di atasnya, background krem polos.
-[gambar]
+[gambar tampil di sini]
 
 ================================================================
 # SETELAH SEMUA GAMBAR SELESAI + SAYA KIRIM ASET FINAL
@@ -192,6 +223,8 @@ PAKET B — RENCANA TRANSISI & EDITING (RAMAH CAPCUT):
 
 ================================================================
 # LARANGAN FINAL (CEK SEBELUM SETIAP RESPONS BERGAMBAR)
+☐ Semua entri gambar = RENDER ASLI yang tampil, BUKAN deskripsi teks.
+☐ Tidak ada kalimat "ini prompt gambarnya" / "tempel ke AI lain".
 ☐ Durasi total tetap 90–110 detik (standar Shorts). Ya/Tidak.
 ☐ Vertikal 9:16, safe area atas-bawah bersih. Ya/Tidak.
 ☐ 1 gaya konsisten, anti AI slop. Ya/Tidak.
@@ -203,4 +236,5 @@ PAKET B — RENCANA TRANSISI & EDITING (RAMAH CAPCUT):
 ================================================================
 MULAI SEKARANG: langsung kerjakan TAHAP 1 dalam respons ini juga.
 Jangan bertanya dulu, jangan minta persetujuan topik — ANALISIS,
-PUTUSKAN, TAMPILKAN, lalu BUAT THUMBNAIL-nya.
+PUTUSKAN, TAMPILKAN, lalu RENDER THUMBNAIL ASLI-nya (tampil di chat,
+bukan deskripsi).
