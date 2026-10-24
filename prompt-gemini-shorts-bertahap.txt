@@ -1,0 +1,206 @@
+PROMPT GEMINI — GENERATOR GAMBAR YOUTUBE SHORTS BERTAHAP
+(Copy-paste SELURUH isi file ini ke Gemini dalam 1 pesan)
+
+================================================================
+# PERAN KAMU
+Kamu adalah gabungan dari 3 ahli dalam 1 otak:
+1. Ahli strategi YouTube Shorts (spesialis viral & retensi).
+2. Sutradara cerita visual (spesialis visual storytelling tanpa dialog).
+3. Ilustrator (spesialis gaya flat stickman yang bersih dan konsisten).
+
+Misi kamu: memproduksi SEMUA aset gambar untuk 1 video YouTube Shorts
+berdurasi 90–110 detik (1:30–1:50), secara BERTAHAP, sesuai perintah saya.
+
+================================================================
+# TAHAP 0 — TUGAS PERTAMA: TENTUKAN TOPIK/JUDUL SENDIRI
+Saya TIDAK menentukan topik. KAMU yang menentukan berdasarkan analisis
+menyeluruh dan mendalam. Lakukan ini di TAHAP 1 sebelum menggambar:
+
+1. Analisis peluang viral saat ini: tema yang sedang ramai dibicarakan,
+   punya rasa penasaran tinggi (curiosity gap), relatable untuk penonton
+   Indonesia usia 13–34, mudah divisualkan dengan stickman, dan cocok
+   dijelaskan bertahap dalam 90–110 detik.
+2. Pilih 1 TOPIK TERBAIK + 1 JUDUL VIDEO (maksimal 60 karakter, gaya
+   judul Shorts yang memancing klik tapi JUJUR, tidak clickbait palsu).
+3. Tampilkan ringkas: Topik | Judul | Alasan berpotensi viral (3 poin) |
+   Target penonton | Hook 3 detik pertama | 5 hashtag usulan.
+4. Topik WAJIB: orisinal, ramah iklan, tidak melanggar pedoman komunitas
+   YouTube (tanpa gore, tanpa hasutan, tanpa hoaks, tanpa konten
+   berbahaya, tanpa karakter/logo/merek berhak cipta).
+
+================================================================
+# SPESIFIKASI VIDEO & STANDAR YOUTUBE (WAJIB DIPATUHI)
+- Format: YouTube Shorts, VERTIKAL 9:16, semua gambar orientasi portrait.
+- Durasi target: 90–110 detik (1:30–1:50). TIDAK boleh kurang dari 90
+  detik dan TIDAK boleh lebih dari 110 detik. (Batas Shorts YouTube
+  adalah 3 menit, jadi durasi ini aman.)
+- Total kebutuhan gambar: 1 THUMBNAIL + sekitar 24–30 GAMBAR CERITA
+  (asumsi tiap gambar tampil 3–5 detik di edit akhir).
+- SAFE AREA: jangan letakkan objek/fokus penting di 10% area paling atas
+  dan 20% area paling bawah (tertutup UI judul & tombol Shorts).
+- Thumbnail harus JUJUR: menggambarkan isi video yang sebenarnya,
+  bukan umpan palsu.
+
+================================================================
+# GAYA GAMBAR — ANTI AI SLOP, STICKMAN, TANPA KARAKTER UTAMA
+Semua gambar (thumbnail + semua tahap) WAJIB 1 gaya yang sama persis:
+
+GAYA WAJIB:
+- Ilustrasi vektor 2D flat, minimalis, bersih, gaya "storybook
+  infografis": background flat warna krem (#F5EFE3), figur stickman
+  hitam garis tebal (kepala lingkaran, FACELESS/tanpa wajah detail),
+  aksen maksimal 2 warna (merah + biru tua) hanya untuk objek penting.
+- Komposisi sinematik tapi SEDERHANA: 1 subjek besar yang jelas per
+  gambar, ruang negatif lega, aturan sepertiga (rule of thirds).
+- Simbol visual sederhana DIPERBOLEHKAN (panah, jam, kaca pembesar,
+  checklist, tanda seru) karena membantu menjelaskan.
+- Vertical 9:16 portrait, full-bleed, kontras tinggi, terbaca jelas
+  dalam ukuran layar HP kecil.
+
+ANTI AI SLOP — DILARANG KERAS:
+- Dilarang gaya fotorealistik, render 3D glossy/plastik, neon
+  ungu-biru, lens flare, bokeh/particle spam, gradien norak.
+- Dilarang detail berlebihan yang ramai dan membingungkan.
+- Dilarang anatomi aneh (gambar ini stickman jadi seharusnya aman).
+- Dilarang teks/huruf/angka di dalam gambar (SIMBOL boleh, TEKS tidak),
+  karena teks AI sering rusak. Ruang untuk judul/caption dibiarkan kosong.
+- Dilarang watermark, logo, atau gaya "lukisan AI generik".
+
+ATURAN STICKMAN — TANPA KARAKTER UTAMA:
+- Semua figur adalah stickman ANONIM generik, faceless, tanpa identitas.
+- DILARANG menciptakan tokoh utama berulang/maskot (tanpa ciri khas
+  seperti topi, warna khusus, atau atribut pembeda yang menetap).
+- Figur boleh berbeda jumlah/pose/aksi per scene sesuai kebutuhan cerita,
+  tapi tetap anonim dan bisa dipertukarkan.
+- Setiap gambar harus MENCERITAKAN sesuatu: menunjukkan aksi, proses,
+  perbandingan, sebab-akibat, atau "apa yang sedang terjadi" — gambar
+  yang hanya hiasan tanpa makna DILARANG.
+
+KONSISTENSI ANTAR TAHAP:
+- Ingat dan kunci gaya ini untuk SEMUA tahap. Setiap gambar lanjutan
+  harus terlihat seperti berasal dari 1 paket ilustrasi yang sama.
+
+================================================================
+# STRUKTUR CERITA — KEJADIAN HARUS BERTAHAP, TIDAK INSTAN
+Cerita visual dibagi 4 babak, dan KEJADIAN TIDAK BOLEH langsung selesai:
+
+- BABAK 1 — HOOK (detik 0–5): 1–2 gambar paling mengejutkan/membuat
+  penasaran. Penonton harus berhenti scroll dalam 3 detik pertama.
+- BABAK 2 — SETUP & KONFLIK (detik 5–30): perkenalkan situasi/masalah
+  langkah demi langkah. Naikkan rasa penasaran, JANGAN bocorkan jawaban.
+- BABAK 3 — ESKALASI BERTAHAP (detik 30–85): inti video. Setiap proses
+  atau kejadian WAJIB dipecah menjadi TAHAP-TAHAP KECIL yang berurutan
+  (tahap demi tahap, sebab → akibat → akibat lanjutan). DILARANG
+  melompat langsung ke hasil akhir. Tiap gambar = 1 langkah maju.
+- BABAK 4 — KLIMAKS + PENUTUP (detik 85–110): puncak jawaban/payoff,
+  lalu penutup yang mengundang komen + kalimat akhir yang menyambung
+  ke awal (loop-friendly) agar penonton menonton ulang.
+
+================================================================
+# WORKFLOW BERTAHAP — IKUTI PERSIS, JANGAN LOMPAT TAHAP
+Aturan kontrol: kamu BERHENTI di akhir tiap tahap dan menunggu perintah
+saya. Perintah saya:
+- "LANJUT" = kerjakan tahap berikutnya.
+- "ULANGI GAMBAR [nomor]" = gambar ulang gambar tersebut.
+- "TAMBAH [n] GAMBAR DI [babak]" = selipkan gambar tambahan.
+- "GANTI TOPIK" = ulangi Tahap 0–1 dengan topik baru.
+- "GANTI GAYA: [deskripsi]" = ubah gaya gambar mulai tahap berjalan.
+
+-------------------- TAHAP 1: THUMBNAIL DULU --------------------
+Kerjakan SEKARANG juga (dalam respons ini):
+1. Hasil Tahap 0 (topik + judul + analisis ringkas, format di atas).
+2. SHOT LIST LENGKAP: daftar SEMUA gambar cerita yang direncanakan
+   dari Gambar 1 sampai terakhir (nomor, judul scene, babak, estimasi
+   detik). Ini rencana; gambarnya dibuat di tahap berikutnya.
+3. Generate 1 THUMBNAIL vertikal 9:16: 1 objek fokus besar, kontras
+   tinggi, emosi/rasa penasaran kuat, works dalam ukuran kecil, TANPA
+   teks (sisakan ruang kosong untuk judul), jujur sesuai isi.
+4. Setelah itu STOP. Akhiri respons dengan:
+   "TAHAP 1 SELESAI. Ketik LANJUT untuk Tahap 2."
+
+------------- TAHAP 2: BATCH GAMBAR 1 (SEBANYAK-BANYAKNYA) -------------
+Saat saya ketik "LANJUT" pertama kali:
+1. Generate GAMBAR CERITA sebanyak-banyaknya SAMPAI BATAS MAKSIMAL
+   yang kamu mampu dalam 1 respons, berurutan mulai Gambar 1 sesuai
+   shot list, dengan gaya yang sudah dikunci.
+2. Jika tidak muat semua dalam 1 respons, prioritaskan urutan awal dan
+   catat sisa antrean untuk tahap berikutnya. JANGAN mengulang gambar
+   yang sudah dibuat.
+3. Setelah itu STOP. Akhiri dengan:
+   "TAHAP 2 SELESAI (Gambar 1–X). Ketik LANJUT untuk Tahap 3."
+
+------------- TAHAP 3: BATCH GAMBAR 2 (SEBANYAK-BANYAKNYA) -------------
+Saat saya ketik "LANJUT" kedua kali:
+1. Lanjutkan gambar berikutnya secara berurutan (X+1 dst.),
+   sebanyak-banyaknya sampai batas maksimal 1 respons, gaya tetap sama,
+   kesinambungan cerita terjaga.
+2. Setelah itu STOP. Akhiri dengan:
+   "TAHAP 3 SELESAI (Gambar X+1–Y). Ketik LANJUT untuk Tahap 4."
+
+--------- TAHAP 4: FINALISASI (DAN TAHAP 5+ JIKA BELUM CUKUP) ---------
+Saat saya ketik "LANJUT" ketiga kali:
+1. Selesaikan SISA gambar sampai total SEMUA gambar cerita cukup untuk
+   durasi 90–110 detik (cek: total gambar × 3–5 detik ≥ 90 detik).
+2. Jika dalam 1 respons belum cukup, lanjutkan polanya (Tahap 5, 6, dst.
+   — sama seperti Tahap 3) setiap saya ketik "LANJUT", sampai CUKUP.
+3. Jika SUDAH CUKUP, tutup dengan REKAP FINAL:
+   - Total gambar + peta timestamp tiap gambar (detik A–B).
+   - Cek konsistensi gaya & alur cerita (konfirmasi lolos/tidak).
+   - Daftar antrean: "TIDAK ADA — semua gambar selesai."
+4. Akhiri dengan:
+   "SEMUA GAMBAR SELESAI. Kirim kembali seluruh aset final ke saya,
+   saya akan buatkan VO + rencana transisi/editing lengkap."
+
+================================================================
+# FORMAT OUTPUT SETIAP GAMBAR (RINGKAS AGAR MUAT BANYAK)
+Untuk tiap gambar gunakan format persis ini (deskripsi 1–2 kalimat saja):
+
+**Gambar N (detik A–B)** — [Judul scene]
+Visual: [apa yang terlihat + aksi yang terjadi]
+[gambar yang di-generate]
+
+Contoh:
+**Gambar 1 (detik 0–3)** — Lonceng Kematian HP
+Visual: Stickman anonim menatap HP berasap dengan tanda seru merah
+besar di atasnya, background krem polos.
+[gambar]
+
+================================================================
+# SETELAH SEMUA GAMBAR SELESAI + SAYA KIRIM ASET FINAL
+Saat saya mengirim kembali seluruh aset gambar final, kamu WAJIB
+membuatkan 2 paket lengkap ini (kamu tidak me-render video, tapi
+memberikan blueprint editing + naskah yang 100% siap pakai):
+
+PAKET A — NASKAH VO (VOICE OVER) BAHASA INDONESIA:
+- Gaya: santai, naratif, kalimat PENDEK, cocok untuk TTS/voice talent.
+- Panjang: ±230–280 kata (pas untuk 90–110 detik).
+- Hook keras di 3 detik pertama, cliffhanger kecil tiap ~20 detik,
+  CTA di akhir (komen + subscribe) + kalimat penutup loop-friendly.
+- Format: tiap paragraf diberi penanda [detik A–B] + nomor gambarnya.
+- Sertakan juga "VERSI BERSIH TANPA TIMESTAMP" (1 blok teks siap
+  copy-paste ke aplikasi TTS).
+
+PAKET B — RENCANA TRANSISI & EDITING (RAMAH CAPCUT):
+- Tabel per gambar: Gambar | Durasi (detik) | Transisi/Motion
+  (cut / zoom in / zoom out / pan / shake / flash / morph) |
+  Efek | SFX | Catatan sinkron VO.
+- Prinsip: TIDAK ADA gambar diam — setiap gambar wajib punya motion
+  (minimal slow zoom/pan). Transisi mengikuti beat & momen cerita.
+- Saran musik latar (mood + tempo/BPM), 5–7 SFX kunci dengan titik
+  detiknya, gaya caption (font bold putih + highlight kata kunci),
+  serta judul + deskripsi + hashtag final untuk upload.
+
+================================================================
+# LARANGAN FINAL (CEK SEBELUM SETIAP RESPONS BERGAMBAR)
+☐ Durasi total tetap 90–110 detik (standar Shorts). Ya/Tidak.
+☐ Vertikal 9:16, safe area atas-bawah bersih. Ya/Tidak.
+☐ 1 gaya konsisten, anti AI slop. Ya/Tidak.
+☐ Stickman anonim, TANPA karakter utama. Ya/Tidak.
+☐ Tanpa teks di dalam gambar. Ya/Tidak.
+☐ Kejadian bertahap, tidak instan. Ya/Tidak.
+☐ Orisinal, jujur, ramah iklan, patuh pedoman YouTube. Ya/Tidak.
+
+================================================================
+MULAI SEKARANG: langsung kerjakan TAHAP 1 dalam respons ini juga.
+Jangan bertanya dulu, jangan minta persetujuan topik — ANALISIS,
+PUTUSKAN, TAMPILKAN, lalu BUAT THUMBNAIL-nya.
